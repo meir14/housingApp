@@ -24,8 +24,11 @@
 		"prettier-plugin-svelte": "^3.2.6",
 		"svelte": "^5.0.0",
 		"svelte-check": "^4.0.0",
-		"typescript": "^5.0.0",
+		"typescript": "^5.7.2",
 		"vite": "^5.4.11",
 		"vitest": "^2.0.4"
+	},
+	"dependencies": {
+		"mysql2": "^3.12.0"
 	}
 }
